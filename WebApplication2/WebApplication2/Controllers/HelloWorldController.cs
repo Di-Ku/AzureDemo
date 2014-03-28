@@ -10,7 +10,7 @@ namespace MvcMovie.Controllers
 
         public string Index()
         {
-            return "This is my <b>default</b> action...";
+            return "This is my <b>default</b> action for AZURE DEMO";
         }
 
         // 
@@ -18,7 +18,7 @@ namespace MvcMovie.Controllers
 
         public string Welcome()
         {
-            return "This is the Welcome action method...";
+            return "This is the Welcome action method for demo";
         }
     }
 }
